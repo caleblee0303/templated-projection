@@ -1792,7 +1792,7 @@
 		}
 
 	section.wrapper, article.wrapper {
-		padding: 6em 0;
+		padding: 10em 0;
 	}
 
 		section.wrapper header, article.wrapper header {
@@ -2916,7 +2916,7 @@
 /* Banner */
 
 	#banner {
-		padding: 8em 0 10em 0;
+		padding: 8em 0 9em 0;
 		background-image: url(../../images/banner.jpg);
 		background-size: cover;
 		background-position: bottom;
@@ -3107,7 +3107,6 @@
 			}
 
 		}
-
 
 /* Footer */
 
